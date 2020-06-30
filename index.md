@@ -23,7 +23,7 @@ desenvolver.
 Desenvolvimento de soluções inovadoras como Full Stack Developer.
 
 ## Conquistas
-- 12/2017 - Oracle Certied
+`12/2017`
 Associate, java SE 8
 Programmer
 
