@@ -6,9 +6,11 @@ title: Currículo Lourenço Viana
 
 Analista de sistemas
 
-[linkedin](http://bit.ly/2S014EI)
+[linkedin: http://bit.ly/2S014EI](http://bit.ly/2S014EI)
 
 [lourenco.m.c.viana@gmail.com](lourenco.m.c.viana@gmail.com)
+
+91992114774
 
 ## Atualmente
 
@@ -48,7 +50,7 @@ __Especialização em desenvolvimento para internet, UFPA__
 
 ## Experiência
 ### Estagiário - Banco do Brasíl
-- 01/2008 - 01/2010 
+`01/2008 - 01/2010`
 
 Em um ambiente de gerência, sem apoio de
 desenvolvedores locais, fui capaz de sozinho criar robôs que
