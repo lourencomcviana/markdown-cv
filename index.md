@@ -6,11 +6,13 @@ title: Currículo Lourenço Viana
 
 Analista de sistemas
 
-[linkedin: http://bit.ly/2S014EI](http://bit.ly/2S014EI)
+:octocat: https://lourencomcviana.github.io/markdown-cv
 
-[lourenco.m.c.viana@gmail.com](lourenco.m.c.viana@gmail.com)
+:page_facing_up: [linkedin: http://bit.ly/2S014EI](http://bit.ly/2S014EI)
 
-91992114774
+:email: [lourenco.m.c.viana@gmail.com](lourenco.m.c.viana@gmail.com)
+
+:iphone: 91992114774
 
 ## Atualmente
 
