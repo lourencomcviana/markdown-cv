@@ -30,10 +30,10 @@ __Associate, java SE 8 Programmer__
 
 ## Tecnologias
 ### Avançado
-Java 8, Spring, Mvn, gradle, .Net MVC, .Net API, .Net CORE, Psql, Tsql, PLSql, Nosq, CSS, Material, Bootstrap, Jquery, vuejs, Angular, Node, SOAP, REST, Cordova, Ionic, Native, Junit, jasmine, karma, git
+Java 8, Spring, Mvn, gradle, .Net MVC, .Net API, .Net CORE, Psql, Tsql, PLSql, Nosq, CSS, Material, Bootstrap, Jquery, Vuejs, Angular, Node, SOAP, REST, Cordova, Ionic, Junit,  git
 
 ### Intermediario
-Java 12, TeamCity, Docker, Neo4j, elastic search, kibana
+Java 12, TeamCity, Docker, Neo4j, elastic search, kibana, jasmine, karma, Native
 
 ## Idiomas Fluentes
  - Português
