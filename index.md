@@ -24,8 +24,7 @@ Desenvolvimento de soluções inovadoras como Full Stack Developer.
 
 ## Conquistas
 `12/2017`
-Associate, java SE 8
-Programmer
+__Associate, java SE 8 Programmer__
 
 ## Tecnologias
 ### Avançado
@@ -58,7 +57,7 @@ operações rotineiras que antes funcionários tinham de fazer
 manualmente frequentemente
 
 ### Desenvolvedor Junior - WTEC
-- 08/2010 - 06/2011
+`08/2010 - 06/2011`
 
 Trabalhei como desenvolvedor júnior em
 uma empresa onde tive chance de entender como sistemas
@@ -72,7 +71,7 @@ por modelar, criar e manter os bancos de dados utilizados
 direta ou indiretamente pelos sistemas utilizados
 
 ### Analista de Sistemas - SEFA - FADESP
-- 02/2016 - 02/2017 
+`02/2016 - 02/2017`
 
 Trabalhando na área de parcelamento de
 débitos. Participei na implementação da nova arquitetura
@@ -81,7 +80,7 @@ Ambiente de desenvolvimento testável e desenvolvimento
 descentralizado.
 
 ### Analista de Sistemas - TechLead
-- 10/2017 - 07/2019
+`10/2017 - 07/2019`
 
 Como um dos primeiros analistas da
 empresa contribuí na criação da estrutura base de
@@ -89,7 +88,7 @@ desenvolvimento que hoje a empresa aplica. Trabalhei
 principalmente com sistemas jurídicos
 
 ### Analista de Sistemas - Stefanini
-08/2019 - atualmente
+`08/2019 - atualmente`
 
 Entrei para equipe ágil alocada no Banco da Amazônia. Já obtive vários sucessos reestruturando aplicações, criando novas, entregando padrões e sempre tentando melhorar a estrutura de trabalho para mim e meus colegas.
 
