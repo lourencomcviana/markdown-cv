@@ -1,91 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Currículo Lourenço Viana
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lourenço Viana
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Analista de sistemas
 
+[linkedin](http://bit.ly/2S014EI)
 
-## Currently
+[lourenco.m.c.viana@gmail.com](lourenco.m.c.viana@gmail.com)
 
-Standing on the shoulders of giants
+## Atualmente
 
-### Specialized in
+Sou um analista de sistema pleno versátil. Acostumado a criar
+soluções ecientes para todo o tipo de problema. Não me
+prendo somente a experiência que tenho, pois sempre me
+dedico a aprender coisas novas em tempo hábil. Gosto muito de
+desenvolver.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Especializado
 
+Desenvolvimento de soluções inovadoras como Full Stack Developer
 
-### Research interests
+## Interesses de pesquisa
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Idiomas Fluentes
+ - Português
+ - Inglês 
 
+## Educação
 
-## Education
+`01/2006 - 01/2010`
+__Bacharel em ciência da computação, UNAMA.__
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`06/2010 - 06/2011`
+__Especialização em desenvolvimento para internet, UFPA__
 
 
+## Experiência
+### Estagiário - Banco do Brasíl
+- 01/2008 - 01/2010 
 
-## Awards
+Em um ambiente de gerência, sem apoio de
+desenvolvedores locais, fui capaz de sozinho criar robôs que
+interagiam com o sistema legado da empresa e realizando
+operações rotineiras que antes funcionários tinham de fazer
+manualmente frequentemente
 
-`2012`
-President, *Royal Society*, London, UK
+### Desenvolvedor Junior - WTEC
+- 08/2010 - 06/2011
 
-Associate, *French Academy of Science*, Paris, France
+Trabalhei como desenvolvedor júnior em
+uma empresa onde tive chance de entender como sistemas
+licitados funcionam realmente, Vivenciando todos os
+problemas dentro deste processo
+Líder de projetos, Full-stack - PRONTO DIGITAL
+08/2011 - 02/2016 Trabalhei atuando com equipes pequenas
+e com funcionários dedicados a atividades especícas, sendo
+responsável por decidir quais tecnologias usadas nos projetos,
+por modelar, criar e manter os bancos de dados utilizados
+direta ou indiretamente pelos sistemas utilizados
 
+### Analista de Sistemas - SEFA - FADESP
+- 02/2016 - 02/2017 
 
+Trabalhando na área de parcelamento de
+débitos. Participei na implementação da nova arquitetura
+RESTful da empresa utilizando angular.js no front-end.
+Ambiente de desenvolvimento testável e desenvolvimento
+descentralizado.
 
-## Publications
+### Analista de Sistemas - TechLead
+- 10/2017 - 07/2019
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Como um dos primeiros analistas da
+empresa contribuí na criação da estrutura base de
+desenvolvimento que hoje a empresa aplica. Trabalhei
+principalmente com sistemas jurídicos
 
-### Journals
+### Analista de Sistemas - Stefanini
+08/2019 - atualmente
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Entrei para equipe ágil alocada no Banco da Amazônia. Já obtive vários sucessos reestruturando aplicações, criando novas, entregando padrões e sempre tentando melhorar a estrutura de trabalho para mim e meus colegas.
 
-`1669`
-Lectiones opticæ.
+<!-- ### Footer 
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Ultima atualização: 2020-06-30 -->
 
 
