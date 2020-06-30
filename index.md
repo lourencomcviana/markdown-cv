@@ -20,9 +20,19 @@ desenvolver.
 
 ## Especializado
 
-Desenvolvimento de soluções inovadoras como Full Stack Developer
+Desenvolvimento de soluções inovadoras como Full Stack Developer.
 
-## Interesses de pesquisa
+## Conquistas
+- 12/2017 - Oracle Certied
+Associate, java SE 8
+Programmer
+
+## Tecnologias
+### Avançado
+Java 8, Spring, Mvn, gradle, .Net MVC, .Net API, .Net CORE, Psql, Tsql, PLSql, Nosq, CSS, Material, Bootstrap, Jquery, vuejs, Angular, Node, SOAP, REST, Cordova, Ionic, Native, Junit, jasmine, karma, git
+
+### Intermediario
+Java 12, TeamCity, Docker, Neo4j, elastic search, kibana
 
 ## Idiomas Fluentes
  - Português
