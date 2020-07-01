@@ -6,13 +6,13 @@ title: Currículo Lourenço Matheus Costa Viana
 
 Analista de sistemas
 
-:octocat: https://lourencomcviana.github.io/markdown-cv
+https://lourencomcviana.github.io/markdown-cv
 
-:page_facing_up: [linkedin: http://bit.ly/2S014EI](http://bit.ly/2S014EI)
+[linkedin: http://bit.ly/2S014EI](http://bit.ly/2S014EI)
 
-:email: [lourenco.m.c.viana@gmail.com](lourenco.m.c.viana@gmail.com)
+[lourenco.m.c.viana@gmail.com](lourenco.m.c.viana@gmail.com)
 
-:iphone: 91992114774
+91992114774
 
 ## Atualmente
 
