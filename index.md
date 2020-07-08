@@ -16,8 +16,8 @@ https://lourencomcviana.github.io/markdown-cv
 
 ## Atualmente
 
-Sou um analista de sistema pleno versátil. Acostumado a criar
-soluções ecientes para todo o tipo de problema. Não me
+Sou um analista de sistema versátil. Acostumado a criar
+soluções eficientes para todo o tipo de problema. Não me
 prendo somente a experiência que tenho, pois sempre me
 dedico a aprender coisas novas em tempo hábil. Gosto muito de
 desenvolver.
