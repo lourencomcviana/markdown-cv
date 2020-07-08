@@ -96,6 +96,8 @@ principalmente com sistemas jurídicos
 
 Entrei para equipe ágil alocada no Banco da Amazônia. Já obtive vários sucessos reestruturando aplicações, criando novas, entregando padrões e sempre tentando melhorar a estrutura de trabalho para mim e meus colegas.
 
+Experiência em trabalho com vuejs e spring boot avançado.
+
 <!-- ### Footer 
 
 Ultima atualização: 2020-06-30 -->
