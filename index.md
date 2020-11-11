@@ -62,8 +62,7 @@ interagiam com o sistema legado da empresa e realizando
 operações rotineiras que antes funcionários tinham de fazer
 manualmente frequentemente
 
-#### Tecnologias
-Java desktop
+**Tecnologias**: Java desktop
 
 ### Desenvolvedor Junior - WTEC
 `08/2010 - 06/2011`
@@ -79,6 +78,7 @@ responsável por decidir quais tecnologias usadas nos projetos,
 por modelar, criar e manter os bancos de dados utilizados
 direta ou indiretamente pelos sistemas utilizados
 
+**Tecnologias**: .NetMVC, .NetApi, SqlServer, AngularJs 
 
 ### Analista de Sistemas - SEFA - FADESP
 `02/2016 - 02/2017`
@@ -89,6 +89,8 @@ RESTful da empresa utilizando angular.js no front-end.
 Ambiente de desenvolvimento testável e desenvolvimento
 descentralizado.
 
+**Tecnologias**: Java, Spring MVC, Oracle, AngularJs
+
 ### Analista de Sistemas - TechLead
 `10/2017 - 07/2019`
 
@@ -97,12 +99,15 @@ empresa contribuí na criação da estrutura base de
 desenvolvimento que hoje a empresa aplica. Trabalhei
 principalmente com sistemas jurídicos
 
+
+**Tecnologias**: .Net Core, Java, Spring Boot, Oracle, AngularJs, Angular 2,4,5,6
+
 ### Analista de Sistemas - Stefanini
 `08/2019 - atualmente`
 
 Entrei para equipe ágil alocada no Banco da Amazônia. Já obtive vários sucessos reestruturando aplicações, criando novas, entregando padrões e sempre tentando melhorar a estrutura de trabalho para mim e meus colegas.
 
-Experiência em trabalho com vuejs e spring boot avançado.
+**Tecnologias**: Java, .Net aspx, .Net Core, Spring Boot, Oracle, vuejs
 
 <!-- ### Footer 
 
