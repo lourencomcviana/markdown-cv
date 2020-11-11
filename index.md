@@ -43,11 +43,12 @@ Java 12, TeamCity, Docker, Neo4j, elastic search, kibana, jasmine, karma, Native
 
 ## Educação
 
-UNAMA `01/2006 - 01/2010`
+- UNAMA `01/2006 - 01/2010`
 
 __Bacharel em ciência da computação__
 
-UFPA `06/2010 - 06/2011`
+- UFPA `06/2010 - 06/2011`
+
 __Especialização em desenvolvimento para internet__
 
 
