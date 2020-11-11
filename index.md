@@ -62,6 +62,9 @@ interagiam com o sistema legado da empresa e realizando
 operações rotineiras que antes funcionários tinham de fazer
 manualmente frequentemente
 
+#### Tecnologias
+Java desktop
+
 ### Desenvolvedor Junior - WTEC
 `08/2010 - 06/2011`
 
@@ -75,6 +78,7 @@ e com funcionários dedicados a atividades especícas, sendo
 responsável por decidir quais tecnologias usadas nos projetos,
 por modelar, criar e manter os bancos de dados utilizados
 direta ou indiretamente pelos sistemas utilizados
+
 
 ### Analista de Sistemas - SEFA - FADESP
 `02/2016 - 02/2017`
