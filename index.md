@@ -43,17 +43,16 @@ Java 12, TeamCity, Docker, Neo4j, elastic search, kibana, jasmine, karma, Native
 
 ## Educação
 
-`01/2006 - 01/2010`
-__Bacharel em ciência da computação, UNAMA.__
+UNAMA `01/2006 - 01/2010`
 
-`06/2010 - 06/2011`
-__Especialização em desenvolvimento
-para internet, UFPA__
+__Bacharel em ciência da computação__
+
+UFPA `06/2010 - 06/2011`
+__Especialização em desenvolvimento para internet__
 
 
 ## Experiência
-### Estagiário - Banco do Brasíl
-`01/2008 - 01/2010`
+### Estagiário - Banco do Brasíl `01/2008 - 01/2010`
 
 Em um ambiente de gerência, sem apoio de
 desenvolvedores locais, fui capaz de sozinho criar robôs que
@@ -61,8 +60,7 @@ interagiam com o sistema legado da empresa e realizando
 operações rotineiras que antes funcionários tinham de fazer
 manualmente frequentemente
 
-### Desenvolvedor Junior - WTEC
-`08/2010 - 06/2011`
+### Desenvolvedor Junior - WTEC `08/2010 - 06/2011`
 
 Trabalhei como desenvolvedor júnior em
 uma empresa onde tive chance de entender como sistemas
