@@ -42,11 +42,15 @@ Java 12, TeamCity, Docker, Neo4j, elastic search, kibana, jasmine, karma, Native
  - Inglês 
 
 ## Educação
-### UNAMA - Bacharel em ciência da computação
-`01/2006 - 01/2010` 
+### UNAMA
+`01/2006 - 01/2010`
 
-### UFPA - Especialização em desenvolvimento para internet
+ Bacharel em ciência da computação
+
+### UFPA
 `06/2010 - 06/2011`
+
+Especialização em desenvolvimento para internet
 
 ## Experiência
 ### Estagiário - Banco do Brasíl 
