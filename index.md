@@ -42,14 +42,15 @@ Java 12, TeamCity, Docker, Neo4j, elastic search, kibana, jasmine, karma, Native
  - Inglês 
 
 ## Educação
+`01/2006 - 01/2010`
+__UNAMA__
 
-- UNAMA `01/2006 - 01/2010`
+Bacharel em ciência da computação
 
-__Bacharel em ciência da computação__
+`06/2010 - 06/2011`
+__UFPA__
 
-- UFPA `06/2010 - 06/2011`
-
-__Especialização em desenvolvimento para internet__
+Especialização em desenvolvimento para internet
 
 
 ## Experiência
