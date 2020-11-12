@@ -69,8 +69,11 @@ Trabalhei como desenvolvedor júnior em
 uma empresa onde tive chance de entender como sistemas
 licitados funcionam realmente, Vivenciando todos os
 problemas dentro deste processo
-Líder de projetos, Full-stack - PRONTO DIGITAL
-08/2011 - 02/2016 Trabalhei atuando com equipes pequenas
+
+### Líder de projetos, Full-stack - PRONTO DIGITAL
+`08/2011 - 02/2016`
+
+Trabalhei atuando com equipes pequenas
 e com funcionários dedicados a atividades especícas, sendo
 responsável por decidir quais tecnologias usadas nos projetos,
 por modelar, criar e manter os bancos de dados utilizados
