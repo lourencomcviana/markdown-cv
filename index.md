@@ -30,12 +30,12 @@ Desenvolvimento de soluções inovadoras como Full Stack Developer.
 `12/2017`
 __Associate, java SE 8 Programmer__
 
-## Tecnologias
+## Conhecimentos
 ### Avançado
-Java 8, Spring, Mvn, gradle, .Net MVC, .Net API, .Net CORE, Psql, Tsql, PLSql, Nosq, CSS, Material, Bootstrap, Jquery, Vuejs, Angular, Node, SOAP, REST, Cordova, Ionic, Junit,  git
+Java 8, Spring, Mvn, gradle, .Net MVC, .Net API, .Net CORE, Psql, Tsql, PLSql, Nosq, CSS, Material, Bootstrap, Jquery, Vuejs, Angular, Node, SOAP, REST, Cordova, Ionic, Junit,  git, reactivex, JUnit, Docker, Jenkins, indexDB, mongoDB, oracle, sqlserver, mysql, posgres, CI/CD
 
 ### Intermediario
-Java 12, TeamCity, Docker, Neo4j, elastic search, kibana, jasmine, karma, Native
+Java 12, TeamCity, Open Shift, Neo4j, elastic search, kibana, jasmine, karma, Native
 
 ## Idiomas Fluentes
  - Português
